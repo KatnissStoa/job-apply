@@ -6,8 +6,6 @@ description: >-
   submitting applications, matching JDs, recommending roles, auto-filling
   application forms, batch applying, helping someone else find jobs,
   evaluating job fit, or when a job posting URL or JD text is provided.
-metadata:
-  execution_mode: inherit
 ---
 
 # Job Apply
